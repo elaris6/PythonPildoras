@@ -1,0 +1,1 @@
+INSERT INTO PRODUCTOS VALUES (NULL,'camion',12,'juguetes')

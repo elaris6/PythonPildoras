@@ -1,0 +1,13 @@
+
+pyinstaller nombre_script.py #Genera la forma normal con todas las librerías y dependencias
+
+Opciones adicionales:
+
+--windowed # Generación normal, pero sin la consola visible
+
+--onefile # En un único fichero, con todas las librerías y dependencias integradas
+
+--icon=./py_calc.ico # Con icono personalizado de aplicación.
+
+PAQUETES OFICIALMENTE SOPORTADOS:
+https://github.com/pyinstaller/pyinstaller/wiki/Supported-Packages
